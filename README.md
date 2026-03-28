@@ -6,7 +6,7 @@
 In an era of information overload and polarized media, getting the objective truth is harder than ever. **News AI App** solves this by aggregating the latest headlines and using advanced AI (Gemini) to analyze each story instantly.
 
 It doesn't just show you the news; it breaks down the bias, summarizes the key points, and most importantly, finds and presents distinct points of view from real, diverse sources. This application is designed for news junkies and critical thinkers who want to escape the echo chamber.
-
+#
 ## Demo
 ![News AI App Demo](static/demo.png)
 
